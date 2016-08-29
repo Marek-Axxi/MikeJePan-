@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "MikeJePan",
       language: "special",
-      chatLink: "https://rawgit.com/Marek-Axxi/Cookies/master/Cookies.json",
+      chatLink: "https://rawgit.com/Franta72/KUZ-Bot/master/KUZczech.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 69, // 1-200
