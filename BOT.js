@@ -47,8 +47,8 @@
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "MikeJePan",
-      language: "czech",
-      chatLink: "https://rawgit.com/basicBot/source/master/lang/cs.json",
+      language: "special",
+      chatLink: "https://rawgit.com/Marek-Axxi/Cookies/master/Cookies.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 69, // 1-200
